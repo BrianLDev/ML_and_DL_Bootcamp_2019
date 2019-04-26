@@ -1,4 +1,11 @@
-# Machine Learning and Deep Learning Bootcamp (4 weekends)
+# Machine Learning and Deep Learning Bootcamp
+
+Machine Learning Academy - https://www.mlacademy.io/
+
+Venkatesh Tadinada - Chief Instructor
+
+San Jose, CA
+***
 
 ## **Description**
 ### **Why Should I Learn Machine Learning & Deep Learning?**
