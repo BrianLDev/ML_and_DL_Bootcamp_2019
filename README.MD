@@ -34,30 +34,30 @@ People who have attended the Basics - Machine Learning 101 or has prior knowledg
 
 ### **Week 1 : Introduction to Machine Learning This course introduces to the joy of machine learning.**
 
-- Machine Learning Concepts
-- MLA’s Seven Step Supervised Learning Process
-- Data Abstraction
-- Feature Engineering
-- Train Test Splitting
-- Model Evaluations
+- Machine Learning Concepts:
+  - MLA’s Seven Step Supervised Learning Process
+  - Data Abstraction
+  - Feature Engineering
+  - Train Test Splitting
+  - Model Evaluations
 - Algorithms covered:
-- Logistic Regression
-- Linear Regression
-- Text / Sentiment Analysis
-- K - Means
+  - Logistic Regression
+  - Linear Regression
+  - Text / Sentiment Analysis
+  - K - Means
 
 ### **Week 2 : Advanced Machine Learning. This week you will learn the math and the programming and some more algorithms**
 
-- Machine Learning Concepts
-- Model Tuning
-- Feature Selections
-- Regularization
-- Overfitting / Underfitting
+- Machine Learning Concepts:
+  - Model Tuning
+  - Feature Selections
+  - Regularization
+  - Overfitting / Underfitting
 - Algorithms covered:
-- XG-Boost
-- Time Series Analysis
-- K - Nearest Neighbours
-- and many more
+  - XG-Boost
+  - Time Series Analysis
+  - K - Nearest Neighbours
+  - and many more
 
 ### **Week 3 :  Basic Deep Learning**
 
